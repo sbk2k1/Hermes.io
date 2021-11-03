@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
   },
   "name": "hermes.io",
   "version": "1.0.0",
