@@ -1,1 +1,1 @@
-<h1>A Chat app made using NodeJs</h1>
+<h1>A Chat app made using NodeJs and</h1>
